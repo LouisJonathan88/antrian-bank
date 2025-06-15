@@ -14,9 +14,6 @@ Aplikasi ini merupakan simulasi sistem antrian seperti di bank, lengkap dengan s
 
 ---
 
-
----
-
 ## Cara Menjalankan
 
 ### 1. Clone Repositori

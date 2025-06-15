@@ -21,8 +21,8 @@ Aplikasi ini merupakan simulasi sistem antrian seperti di bank, lengkap dengan s
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/LouisJonathan88/antrian-bank.git
-cd antrian-bank
+git clone https://github.com/LouisJonathan88/sistem-antrian-bank.git
+cd sistem-antrian-bank
 ```
 
 ### 2. Install Dependensi
